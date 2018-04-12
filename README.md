@@ -10,9 +10,12 @@ Resources &amp; notes for data science self-learning
 
 ### Python & Algorithms
 [*Automate the Boring Stuff with Python*](https://automatetheboringstuff.com/) <br>
-3.21 Chapter 1-6 <br><br>
+3.21 Chapter 1-6 <br>
 
 [*Problem Solving with Algorithms and Data Structures using Python*](https://interactivepython.org/runestone/static/pythonds/index.html) <br>
+4.01 Chapter 3.1-3.18 Stack, Queue, Deque
+4.04 Chapter 3.19-3.24 Linked List, Ordered List
+4.12 Chapter 4 Recursion
 
 ### R
 *R in Action*
