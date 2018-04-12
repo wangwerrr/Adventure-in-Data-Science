@@ -6,7 +6,7 @@ Resources &amp; notes for data science self-learning
 ### R
 
 ### Statistics 
-[*OpenIntro Statistics*](http://vdisk.weibo.com/s/z9399AkLU8VQP)
-3.30 Chapter 1 Introduction to Data
-4.4  Chapter 2 Probability
-4.12 Distribution
+[*OpenIntro Statistics*](https://www.openintro.org/download.php?file=os3_tablet&referrer=/stat/textbook.php) <br>
+3.30 Chapter 1 Introduction to Data <br>
+4.4  Chapter 2 Probability <br>
+4.12 Distribution <br>
