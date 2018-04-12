@@ -10,6 +10,8 @@ Resources &amp; notes for data science self-learning
 
 ### Python & Algorithms
 [*Automate the Boring Stuff with Python*](https://automatetheboringstuff.com/) <br>
+3.21 Chapter 1-6 <br><br>
+
 [*Problem Solving with Algorithms and Data Structures using Python*](https://interactivepython.org/runestone/static/pythonds/index.html) <br>
 
 ### R
