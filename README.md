@@ -1,5 +1,5 @@
 # Adventure-in-Data-Science
-Resources &amp; notes for data science self-learning
+Resources & recordings for data science self-learning
 
 
 ### Statistics 
