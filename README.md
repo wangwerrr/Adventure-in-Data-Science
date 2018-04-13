@@ -8,6 +8,8 @@ Resources & recordings for self-learning in Data Science
 4.04 Ch.2 Probability <br>
 4.12 Ch.3 Distribution <br>
 
+[*Inferential Statistics-Udacity*](https://cn.udacity.com/course/intro-to-inferential-statistics--ud201)<br>
+
 [*Statistical Inference*](https://fsalamri.files.wordpress.com/2015/02/casella_berger_statistical_inference1.pdf) <br>
 
 ### Python
