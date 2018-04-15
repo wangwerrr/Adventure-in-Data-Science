@@ -11,7 +11,7 @@ Resources & recordings for self-learning in Data Science
 
 [*Statistical Inference*](https://fsalamri.files.wordpress.com/2015/02/casella_berger_statistical_inference1.pdf) <br>
 
-**MOOC** <br>
+MOOC <br>
 [*Inferential Statistics-Udacity*](https://cn.udacity.com/course/intro-to-inferential-statistics--ud201)<br>
 
 
