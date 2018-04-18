@@ -8,6 +8,7 @@ Resources & recordings for self-learning in Data Science
 4.04 Ch.2 Probability <br>
 4.12 Ch.3 Distribution <br>
 4.16 Ch.4 Foundations for inference <br>
+4.18 Ch.5 Inference for numerical data <br>
 
 [*Statistical Inference*](https://fsalamri.files.wordpress.com/2015/02/casella_berger_statistical_inference1.pdf) <br>
 
