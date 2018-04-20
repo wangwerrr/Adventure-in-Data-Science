@@ -15,8 +15,7 @@ Resources & recordings for self-learning in Data Science
 MOOC <br>
 [*Intro to Inferential Statistics-Udacity*](https://cn.udacity.com/course/intro-to-inferential-statistics--ud201)<br>
 4.19 Introduction and Lesson 7 Review <br>
-4.20 Estimation <br>
-     Hypothesis Testing <br>
+4.20 Estimation, Hypothesis Testing <br>
 
 ### Python
 [*Automate the Boring Stuff with Python*](https://automatetheboringstuff.com/) <br>
