@@ -28,6 +28,10 @@ MOOC <br>
 
 [*Python Data Science Handbook*](https://jakevdp.github.io/PythonDataScienceHandbook/) <br>
 
+MOOC <br>
+[*Programming Foundations with Python*](https://classroom.udacity.com/courses/ud036)
+4.26 Finished
+
 ### R
 [*R in Action*](https://www.manning.com/books/r-in-action-second-edition?a_bid=5c2b1e1d&a_aid=RiA2ed) <br>
 4.8 Ch.1 Creating a Dataset <br>
