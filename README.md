@@ -2,11 +2,12 @@
 Resources & recordings for self-learning in Data Science 
 
 ### Data Analysis
-*MOOC* <br>
+*-MOOC-* <br>
 [Data Analyst (Advanced)-Udacity](https://classroom.udacity.com/nanodegrees/nd002-cn-advanced/syllabus/core-curriculum) <br>
 4.24 Part 1 Welcome to Data Analyst Advanced <br>
 
 ### Statistics 
+*-Textbooks-* <br>
 [OpenIntro Statistics](https://www.openintro.org/download.php?file=os3_tablet&referrer=/stat/textbook.php) <br>
 3.30 Ch.1 Introduction to Data <br>
 4.4 Ch.2 Probability <br>
@@ -16,12 +17,13 @@ Resources & recordings for self-learning in Data Science
 
 [Statistical Inference](https://fsalamri.files.wordpress.com/2015/02/casella_berger_statistical_inference1.pdf) <br>
 
-*MOOC* <br>
+*-MOOC-* <br>
 [Intro to Inferential Statistics-Udacity](https://cn.udacity.com/course/intro-to-inferential-statistics--ud201)<br>
 4.19 Introduction and Lesson 7 Review <br>
 4.20 Estimation, Hypothesis Testing <br>
 
 ### Python
+*-Textbooks-* <br>
 [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) <br>
 3.21 Ch.1-6 <br>
 
@@ -32,20 +34,21 @@ Resources & recordings for self-learning in Data Science
 
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) <br>
 
-*MOOC* <br>
+*-MOOC-* <br>
 [Programming Foundations with Python-Udacity](https://classroom.udacity.com/courses/ud036) <br>
 4.26 Finished <br>
 
 ### R
+*-Textbooks-* <br>
 [R in Action](https://www.manning.com/books/r-in-action-second-edition?a_bid=5c2b1e1d&a_aid=RiA2ed) <br>
 4.8 Ch.1 Creating a Dataset <br>
 
 [R for Data Science](http://r4ds.had.co.nz/) <br>
 
 ### SQL
-*MOOC* <br>
+*-MOOC-* <br>
 [Intro to Relational Databases-Udacity](https://classroom.udacity.com/courses/ud197) <br>
 
 ### Web Development
-*MOOC* <br>
+*-MOOC-* <br>
 [Web Developement-Udacity](https://classroom.udacity.com/courses/cs253) <br>
