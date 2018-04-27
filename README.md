@@ -1,6 +1,10 @@
 # Adventure in Data Science
 Resources & recordings for self-learning in Data Science 
 
+### Data Analysis
+*MOOC*
+[Data Analyst (Advanced)-Udacity](https://classroom.udacity.com/nanodegrees/nd002-cn-advanced/syllabus/core-curriculum) <br>
+4.24 Part 1 Welcome to Data Analyst Advanced <br>
 
 ### Statistics 
 [OpenIntro Statistics](https://www.openintro.org/download.php?file=os3_tablet&referrer=/stat/textbook.php) <br>
@@ -41,3 +45,7 @@ Resources & recordings for self-learning in Data Science
 ### SQL
 *MOOC* <br>
 [Intro to Relational Databases-Udacity](https://classroom.udacity.com/courses/ud197) <br>
+
+### Web Development
+*MOOC* <br>
+[Web Developement-Udacity](https://classroom.udacity.com/courses/cs253) <br>
