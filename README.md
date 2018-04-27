@@ -5,6 +5,7 @@ Resources & recordings for self-learning in Data Science
 *-MOOC-* <br>
 [Data Analyst (Advanced)-Udacity](https://classroom.udacity.com/nanodegrees/nd002-cn-advanced/syllabus/core-curriculum) <br>
 4.24 Part 1 Welcome to Data Analyst Advanced <br>
+<br>
 
 ### Statistics 
 *-Textbooks-* <br>
@@ -21,6 +22,7 @@ Resources & recordings for self-learning in Data Science
 [Intro to Inferential Statistics-Udacity](https://cn.udacity.com/course/intro-to-inferential-statistics--ud201)<br>
 4.19 Introduction and Lesson 7 Review <br>
 4.20 Estimation, Hypothesis Testing <br>
+<br>
 
 ### Python
 *-Textbooks-* <br>
@@ -37,6 +39,7 @@ Resources & recordings for self-learning in Data Science
 *-MOOC-* <br>
 [Programming Foundations with Python-Udacity](https://classroom.udacity.com/courses/ud036) <br>
 4.26 Finished <br>
+<br>
 
 ### R
 *-Textbooks-* <br>
@@ -44,10 +47,12 @@ Resources & recordings for self-learning in Data Science
 4.8 Ch.1 Creating a Dataset <br>
 
 [R for Data Science](http://r4ds.had.co.nz/) <br>
+<br>
 
 ### SQL
 *-MOOC-* <br>
 [Intro to Relational Databases-Udacity](https://classroom.udacity.com/courses/ud197) <br>
+<br>
 
 ### Web Development
 *-MOOC-* <br>
