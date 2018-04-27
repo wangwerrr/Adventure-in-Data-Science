@@ -29,7 +29,7 @@ Resources & recordings for self-learning in Data Science
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) <br>
 
 *MOOC* <br>
-[Programming Foundations with Python](https://classroom.udacity.com/courses/ud036) <br>
+[Programming Foundations with Python-Udacity](https://classroom.udacity.com/courses/ud036) <br>
 4.26 Finished <br>
 
 ### R
@@ -39,3 +39,5 @@ Resources & recordings for self-learning in Data Science
 [R for Data Science](http://r4ds.had.co.nz/) <br>
 
 ### SQL
+*MOOC* <br>
+[Intro to Relational Databases-Udacity](https://classroom.udacity.com/courses/ud197) <br>
