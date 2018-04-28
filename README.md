@@ -56,4 +56,12 @@ Resources & recordings for self-learning in Data Science
 
 ### Web Development
 *-MOOC-* <br>
+[Intro to HTML and CSS-Udacity](https://classroom.udacity.com/courses/ud001)<br>
+4.28 Finished<br>
+
+[Responsive Web Design Fundamentals-Udacity](https://classroom.udacity.com/courses/ud893)<br>
+
+[Intro to JavaScript](https://classroom.udacity.com/courses/ud803)<br>
+
 [Web Developement-Udacity](https://classroom.udacity.com/courses/cs253) <br>
+
