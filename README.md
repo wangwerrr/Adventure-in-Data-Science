@@ -61,7 +61,7 @@ Resources & recordings for self-learning in Data Science
 
 [Responsive Web Design Fundamentals-Udacity](https://classroom.udacity.com/courses/ud893)<br>
 
-[Intro to JavaScript](https://classroom.udacity.com/courses/ud803)<br>
+[Intro to JavaScript-Udacity](https://classroom.udacity.com/courses/ud803)<br>
 
 [Web Developement-Udacity](https://classroom.udacity.com/courses/cs253) <br>
 
