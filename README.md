@@ -5,7 +5,7 @@ Resources & recordings for self-learning in Data Science
 *-MOOC-* <br>
 [Data Analyst (Advanced)-Udacity](https://classroom.udacity.com/nanodegrees/nd002-cn-advanced/syllabus/core-curriculum) <br>
 4.24 Part 1 Welcome to Data Analyst Advanced <br>
-Learning...
+Learning...<br>
 Part 2 Data Wrangling <br>
 (Optional) SQL <br>
 <br>
