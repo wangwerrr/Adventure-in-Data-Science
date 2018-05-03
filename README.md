@@ -53,6 +53,9 @@ Part 2 Data Wrangling <br>
 <br>
 
 ### SQL
+*-Textbook-*  <br>
+[SQL Cookbook-Chn](http://vdisk.weibo.com/s/al6dG90GHcosB?category_id=0...ref)  <br>
+
 *-MOOC-* <br>
 [Intro to Relational Databases-Udacity](https://classroom.udacity.com/courses/ud197) <br>
 <br>
