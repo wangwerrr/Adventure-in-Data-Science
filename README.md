@@ -1,7 +1,10 @@
 # Adventure in Data Science
 Resources & recordings for self-learning in Data Science 
 
-### Data Analysis
+### Data Science 
+*-Textbooks-* <br>
+[Data Science for Business](http://www.data-science-for-biz.com/DSB/Home.html)<br>
+
 *-MOOC-* <br>
 [Data Analyst (Advanced)-Udacity](https://classroom.udacity.com/nanodegrees/nd002-cn-advanced/syllabus/core-curriculum) <br>
 4.24 Part 1 Welcome to Data Analyst Advanced <br>
@@ -10,6 +13,8 @@ Learning...<br>
 Part 2 Data Wrangling <br>
 
 <br>
+
+
 
 ### Statistics 
 *-Textbooks-* <br>
