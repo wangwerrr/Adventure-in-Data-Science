@@ -51,6 +51,9 @@ Part 2 Data Wrangling <br>
 4.26 Finished <br>
 <br>
 
+[Data Structures & Algorithms in Python-Udacity](https://classroom.udacity.com/courses/ud513) <br>
+<br>
+
 ### R
 *-Textbooks-* <br>
 [R in Action](https://www.manning.com/books/r-in-action-second-edition?a_bid=5c2b1e1d&a_aid=RiA2ed) <br>
