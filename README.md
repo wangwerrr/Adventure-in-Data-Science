@@ -10,11 +10,13 @@ Resources & recordings for self-learning in Data Science
 [Data Science for Business](http://www.data-science-for-biz.com/DSB/Home.html)
 
 
-*-MOOC-* 
+*-Online Courses-* 
 
 [Data Analyst (Advanced)-Udacity](https://classroom.udacity.com/nanodegrees/nd002-cn-advanced/syllabus/core-curriculum) <br>
 
 ### Linear Algebra
+*-Online Courses-* 
+
 [Linear Algebra - MIT Open Course - Gilbert Strang](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)<br>
 
 ### Statistics 
@@ -24,7 +26,7 @@ Resources & recordings for self-learning in Data Science
 
 [Statistical Inference](https://fsalamri.files.wordpress.com/2015/02/casella_berger_statistical_inference1.pdf) 
 
-*-MOOC-*
+*-Online Courses-* 
 
 [Intro to Inferential Statistics-Udacity](https://cn.udacity.com/course/intro-to-inferential-statistics--ud201)
 
@@ -37,7 +39,7 @@ Resources & recordings for self-learning in Data Science
 
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) 
 
-*-MOOC-* 
+*-Online Courses-* 
 
 [Programming Foundations with Python-Udacity](https://classroom.udacity.com/courses/ud036) 
 
@@ -52,13 +54,15 @@ Resources & recordings for self-learning in Data Science
 
 ### SQL
 *-Textbooks-*  
+
 [SQL Cookbook-Chn](http://vdisk.weibo.com/s/al6dG90GHcosB?category_id=0...ref) 
 
-*-MOOC-* 
+*-Online Courses-* 
 [Intro to Relational Databases-Udacity](https://classroom.udacity.com/courses/ud197)
 
 ### Web Development
-*-MOOC-* <br>
+*-Online Courses-* 
+
 [Intro to HTML and CSS-Udacity](https://classroom.udacity.com/courses/ud001)
 
 [Responsive Web Design Fundamentals-Udacity](https://classroom.udacity.com/courses/ud893)
