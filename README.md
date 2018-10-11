@@ -58,6 +58,7 @@ Resources & recordings for self-learning in Data Science
 [SQL Cookbook-Chn](http://vdisk.weibo.com/s/al6dG90GHcosB?category_id=0...ref) 
 
 *-Online Courses-* 
+
 [Intro to Relational Databases-Udacity](https://classroom.udacity.com/courses/ud197)
 
 ### Web Development
