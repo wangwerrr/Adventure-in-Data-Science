@@ -17,6 +17,8 @@ Part 2 Data Wrangling <br>
 
 <br>
 
+### Linear Algebra
+[Linear Algebra - MIT Open Course - Gilbert Strang](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)<br>
 
 
 ### Statistics 
